@@ -16,7 +16,6 @@
   
   ![StyflerRick Status](https://github-readme-stats.vercel.app/api?username=StyflerRick&show_icons=true&theme=dark) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=StyflerRick&layout=compact&theme=dark)](https://github.com/StyflerRick/github-readme-stats)
 
-  ![snake gif](https://github.com/StyflerRick/StyflerRick/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
