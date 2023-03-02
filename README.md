@@ -16,5 +16,5 @@
   
 </div>
 
-![StyflerRick Status](https://github-readme-stats.vercel.app/api?username=StyflerRick&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=StyflerRick&layout=compact)](https://github.com/StyflerRick/github-readme-stats)
+![StyflerRick Status](https://github-readme-stats.vercel.app/api?username=StyflerRick&show_icons=true&theme=dark) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=StyflerRick&layout=compact&theme=dark)](https://github.com/StyflerRick/github-readme-stats)
 
