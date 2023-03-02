@@ -14,8 +14,9 @@
   <a href = "mailto:henriquemorenoo@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-moreno-548a28267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  ![StyflerRick Status](https://github-readme-stats.vercel.app/api?username=StyflerRick&show_icons=true&theme=dark) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=StyflerRick&layout=compact&theme=dark)](https://github.com/StyflerRick/github-readme-stats)
+
+  ![Snake animation](https://github.com/StyflerRick/StyflerRick/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-![StyflerRick Status](https://github-readme-stats.vercel.app/api?username=StyflerRick&show_icons=true&theme=dark) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=StyflerRick&layout=compact&theme=dark)](https://github.com/StyflerRick/github-readme-stats)
-
-![Snake animation](https://github.com/StyflerRick/StyflerRick/blob/output/github-contribution-grid-snake.svg)
