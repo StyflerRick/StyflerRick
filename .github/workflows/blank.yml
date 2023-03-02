@@ -8,9 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [16.x]
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2.5.2
 
       - name: Generate Snake Game files
         uses: Platane/snk@master
@@ -19,6 +22,9 @@ jobs:
           github_user_name: StyflerRick
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+        env:
+          SNAKE_GIF_PATH: ${{ steps.snake-gif.outputs.gif_path }}
+
 
       - name: Show Git status
         run: git status
@@ -29,6 +35,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           force: true
+        env:
+         SNAKE_GIF_PATH: ${{ env.SNAKE_GIF_PATH }}
+
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
