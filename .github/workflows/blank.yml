@@ -23,7 +23,10 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
       - name: Set Snake GIF path
+        env:
+          SNAKE_GIF_PATH: ${{ steps.snake-gif.outputs.gif_path }}
         run: echo "SNAKE_GIF_PATH=${{ steps.snake-gif.outputs.gif_path }}" >> $GITHUB_ENV
+
 
 
 
