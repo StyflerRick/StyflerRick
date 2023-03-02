@@ -1,16 +1,20 @@
-### Hi there 👋
+### Ola, meu nome é Henrique Moreno 👋
 
-<!--
-**StyflerRick/StyflerRick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Quero trabalhar com Back-End
+- 🌱 Atualmente estou aprendendo Python e quero aprender outras linguagens, suas API's e Library's
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="rick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/rckmoren" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henriquemorenoo@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-moreno-548a28267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![StyflerRick Status](https://github-readme-stats.vercel.app/api?username=StyflerRick&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=StyflerRick&layout=compact)](https://github.com/StyflerRick/github-readme-stats)
+
