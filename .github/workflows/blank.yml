@@ -37,7 +37,8 @@ jobs:
           branch: main
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           # o diretório de saída do build da página
           target_branch: output
