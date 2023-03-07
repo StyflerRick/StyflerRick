@@ -1,7 +1,7 @@
 ### Ola, meu nome é Henrique Moreno 👋
 
 - 🔭 Quero trabalhar com Front
-- 🌱 Atualmente estou aprendendo Python e quero aprender outras linguagens, suas API's e Library's
+- 🌱 Atualmente estou aprendendo Python, HTML, CSS e JS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="rick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
