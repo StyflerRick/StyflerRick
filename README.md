@@ -1,6 +1,6 @@
 ### Ola, meu nome é Henrique Moreno 👋
 
-- 🔭 Quero trabalhar com Front
+- 🔭 Quero trabalhar com Back-End
 - 🌱 Atualmente estou aprendendo Python, HTML, CSS e JS
 
 <div style="display: inline_block"><br>
